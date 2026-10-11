@@ -231,6 +231,15 @@ Tags: agents-automation
 Registry ID: promptfoo
 Verification: seed; current details require review
 
+### [Tale](https://tale.dev)
+
+Open-source workspace where teams and AI agents coordinate project tasks, files, instructions, chats and shared knowledge
+
+Resource type: product
+Tags: agents-automation
+Registry ID: tale
+Verification: primary-source README checked 2026-10-11
+
 ## Evaluation checklist
 
 Test representative inputs and edge cases. Record model/version, plan, date, settings and scoring method. Compare task quality, modality limits, evidence/citations, integration effort, latency, whole-workflow cost, privacy and retention, licenses, geographic access and failure recovery. An upload control does not prove native processing of every format; downloadable weights do not automatically allow commercial use.
