@@ -6,6 +6,19 @@ Coding assistants, IDEs, terminal agents, code review, app generation, testing a
 
 ## Directory
 
+### [agent-qa](https://vostride.com)
+
+Natural-language QA for web, Android and iOS with memidex memory, self-improvement and recorded execution evidence.
+
+Resource type: product
+Tags: coding-software, agents-automation
+Registry ID: agent-qa
+Verification: primary-source metadata checked on 2026-11-01; not runtime-tested or independently audited
+
+Access: local CLI, dashboard and stdio MCP; Node.js 24+ required. Early stage; expect bugs.
+License and pricing: FSL-1.1-ALv2 restricts competing commercial use. No software fee for permitted uses; model and device service costs are separate.
+Sources: [Documentation](https://vostride.com/docs/agent-qa), [repository](https://github.com/vostride/agent-qa), [license](https://github.com/vostride/agent-qa/blob/main/LICENSE.md).
+
 ### [OpenAI Codex](https://openai.com/codex)
 
 Coding-agent product for delegated software tasks
