@@ -1483,6 +1483,55 @@
     "related_ids": []
   },
   {
+    "id": "agent-qa",
+    "name": "agent-qa",
+    "resource_type": "product",
+    "primary_category": "Coding and Software Engineering",
+    "secondary_categories": [
+      "coding-software",
+      "agents-automation"
+    ],
+    "description": "Natural-language QA for web, Android and iOS with memidex memory, self-improvement and recorded execution evidence.",
+    "official_url": "https://vostride.com",
+    "documentation_url": "https://vostride.com/docs/agent-qa",
+    "organization": "vostride",
+    "modalities": [
+      "text",
+      "image"
+    ],
+    "capabilities": [
+      "natural-language QA",
+      "web and mobile UI testing",
+      "memidex memory",
+      "self-improvement",
+      "local stdio MCP"
+    ],
+    "deployment": [
+      "self_hosted"
+    ],
+    "access_model": "Local CLI, dashboard and stdio MCP; public repository and npm package under FSL terms",
+    "pricing_model": "No software fee for permitted FSL uses; model and device service costs separate",
+    "license_name": "FSL-1.1-ALv2",
+    "license_url": "https://github.com/vostride/agent-qa/blob/main/LICENSE.md",
+    "status": "early_stage",
+    "record_status": "verified",
+    "last_verified": "2026-11-01",
+    "source_urls": [
+      "https://vostride.com",
+      "https://vostride.com/docs/agent-qa",
+      "https://github.com/vostride/agent-qa",
+      "https://github.com/vostride/agent-qa/blob/main/LICENSE.md"
+    ],
+    "notes": [
+      "Requires Node.js 24+; early stage, so bugs are expected.",
+      "FSL-1.1-ALv2 restricts competing commercial use; it is not an OSI-approved permissive license.",
+      "MCP runs locally over stdio; the website is not a remote MCP endpoint.",
+      "Verification covers public primary-source metadata, not runtime tests, independent product quality or benchmark results."
+    ],
+    "date_added": "2026-11-01",
+    "related_ids": []
+  },
+  {
     "id": "openai-codex",
     "name": "OpenAI Codex",
     "resource_type": "product",
